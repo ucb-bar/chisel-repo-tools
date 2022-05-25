@@ -10,7 +10,7 @@ idna==2.10
 jwcrypto==0.8
 pycparser==2.20
 PyGithub==1.53
-PyJWT==1.7.1
+PyJWT==2.4.0
 python-dateutil==2.8.1
 PyYAML==5.4.1
 requests==2.26.0
